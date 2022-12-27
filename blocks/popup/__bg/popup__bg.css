@@ -8,7 +8,7 @@
   width: 100%;
   height: 100vh;
   background: #9ea692;
-  /* opacity: 0; // Скрываем фон и сам попап
-  pointer-events: none; // Запрещаем ему быть целью событий */
+  opacity: 0;
+  pointer-events: none;
   transition: 0.5s all;
 }
